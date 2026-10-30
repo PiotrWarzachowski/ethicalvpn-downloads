@@ -27,6 +27,8 @@ EthicalVPN changes your system-wide VPN connection. It does not supply separate 
 
 The [download page](https://ethicalvpn.app/downloads/?utm_source=github&utm_medium=referral&utm_campaign=launch) includes installation instructions and current files.
 
+GitHub mirrors of the same 0.2.0 files: [Windows x64 installer](https://github.com/PiotrWarzachowski/ethicalvpn-downloads/releases/download/v0.2.0/ethicalvpn-windows-x64-setup-0.2.0.exe) · [Linux x64 AppImage](https://github.com/PiotrWarzachowski/ethicalvpn-downloads/releases/download/v0.2.0/ethicalvpn-linux-x64-0.2.0.AppImage). Other formats and architectures are available on the website.
+
 | System | Architecture | Formats |
 | --- | --- | --- |
 | Windows 10 / 11 | x64 | EXE installer |
