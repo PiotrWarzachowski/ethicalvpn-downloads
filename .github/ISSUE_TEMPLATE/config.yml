@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Installation help
+    url: https://ethicalvpn.app/downloads/
+    about: Choose your operating system and view installation instructions.
+  - name: How the service is funded
+    url: https://ethicalvpn.app/how-it-works/
+    about: Read about the required proxy-sharing consent before installing.

@@ -1,0 +1,13 @@
+114754ab4b9bf55119d4e436c9b8cf0224751567b1ade622be218941c71f6a5d  ethicalvpn-linux-x64-0.2.0.tar.gz
+97d2ef79bf343b09d0174ec937b64545cfa65ba552d7a0dcb3011b12f912ec8c  ethicalvpn-windows-x64-setup-0.2.0.exe
+3504506d0e97a2377be87c902ed31293a12506337fcfde6b3ef4da2c32eec764  ethicalvpn-macos-arm64-0.2.0.pkg
+e9408012be6622c470a0fc0078119b14ce802ff2ce90e95f3f7ffab4b9462c21  ethicalvpn-macos-x64-0.2.0.pkg
+b99bf2b78ce77a6ee5b16999b7b8029c480a157d5f73ba5adf6125593e4b5b47  ethicalvpn-linux-x64-0.2.0.deb
+cb3f17ec8a0b215bf2398675e4bf7d3e6614bfc5696e14d794ba026a239a26f2  ethicalvpn-linux-x64-0.2.0.AppImage
+31ddba14c1c53812a1194d39eb6be124942f619077a4870b4ed7c2950e672f14  ethicalvpn-linux-x64-0.2.0.rpm
+a8cf8686346ff9e1096bfad8d9023d6a916dd17ccabff235b52cac722bb178df  ethicalvpn-linux-x64-0.2.0.pkg.tar.zst
+f98435cbd43fe8ab620d4f030bce53aaea8376089c72e28abd779dc6f22e1e6e  ethicalvpn-linux-arm64-0.2.0.AppImage
+719f6f1010e211dac996c14ec861192914fe1cf0490b29d4246744dbb9c1833e  ethicalvpn-linux-arm64-0.2.0.rpm
+35ba535baec6db3de17275988eba0c355d3ce78819621f6a195f7ff39253d466  ethicalvpn-linux-arm64-0.2.0.pkg.tar.zst
+54427e32985c7de47d54fa4e180fcb9acf3b6c8047b381aed7b4c3886c0ebb43  ethicalvpn-linux-arm64-0.2.0.tar.gz
+a92d95072577c8b9e3e85885765a541e90d2cbd8fd00b75f0ede3aa13efd72fe  ethicalvpn-linux-arm64-0.2.0.deb

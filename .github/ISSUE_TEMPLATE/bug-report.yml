@@ -1,0 +1,36 @@
+name: Report a problem
+description: Report a connection, installation or interface problem.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: "Do not include passwords, private keys, full VPN configurations or personal information."
+  - type: dropdown
+    id: system
+    attributes:
+      label: Operating system
+      options:
+        - Windows
+        - macOS
+        - Linux
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Operating system version, architecture and EthicalVPN version
+      placeholder: "For example: Windows 11, x64, EthicalVPN 0.2.0"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include the steps, expected behavior and exact error text.
+    validations:
+      required: true
+  - type: textarea
+    id: sharing
+    attributes:
+      label: Connection and sharing status
+      description: What status does the app show? Does this happen with all destinations or one?
