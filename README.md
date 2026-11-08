@@ -48,6 +48,13 @@ The current release is **0.2.0**. Windows binaries do not have a publisher code-
 
 SHA-256 checksums and the download manifest are included in this repository and the release notes. A checksum verifies that a downloaded file matches the published release; it is not a security audit or a publisher signature.
 
+
+## Practical VPN guides
+
+- [How are free VPNs funded?](https://ethicalvpn.app/blog/how-free-vpns-are-funded/?utm_source=github&utm_medium=referral&utm_campaign=free_desktop_20261108&utm_content=funding_guide) — Funding models and a checklist for comparing the exchange before installing.
+- [How to check your VPN connection on Linux](https://ethicalvpn.app/blog/check-vpn-connection-linux/?utm_source=github&utm_medium=referral&utm_campaign=free_desktop_20261108&utm_content=linux_checklist) — Read-only IPv4, IPv6, NetworkManager, resolver and browser observations, with limits for each check.
+- [All blog articles](https://ethicalvpn.app/blog/?utm_source=github&utm_medium=referral&utm_campaign=free_desktop_20261108&utm_content=blog_index).
+
 ## Feedback
 
 Use [Issues](https://github.com/PiotrWarzachowski/ethicalvpn-downloads/issues) to report a reproducible problem. Include your operating system, CPU architecture, app version, steps and the exact visible error. Do not post passwords, private keys, full VPN configurations or personal information.
