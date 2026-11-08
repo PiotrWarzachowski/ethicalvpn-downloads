@@ -19,7 +19,7 @@ Please read [how sharing works](https://ethicalvpn.app/how-it-works/) before ins
 3. Open EthicalVPN and review the sharing disclosure before consenting. Choose a location and connect.
 4. To stop the exchange, withdraw sharing consent in the app. Closing the window alone does not stop background sharing.
 
-**Available in [AppImageHub](https://appimage.github.io/EthicalVPN/)** for Linux. WinGet submission is still awaiting contributor-agreement completion and moderator review; no WinGet install command is available yet.
+**Available in [AppImageHub](https://appimage.github.io/EthicalVPN/)** for Linux. WinGet submission has passed automated validation and the contributor-agreement check, and is awaiting moderator review; no WinGet install command is available yet.
 
 ## Four locations
 
